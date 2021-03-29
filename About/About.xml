@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[NO NAME]</name>
+	<author>ZzZombo, Drunk Moose</author>
+	<url></url>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+	</loadAfter>
+	<incompatibleWith>
+		<li>brucethemoose.optimizationmeats</li>
+	</incompatibleWith>
+	<packageId>ZzZombo.commission004</packageId>
+	<description>Adds a stronger version of the patchleather and processed meat that has no negative thoughts from human and insect meat.</description>
+</ModMetaData>

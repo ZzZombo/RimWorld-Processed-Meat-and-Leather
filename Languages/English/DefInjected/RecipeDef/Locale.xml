@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Make_ProcessedLeather.label>make processed leather</Make_ProcessedLeather.label>
+	<Make_ProcessedLeather.description>Combine pieces of patchleather to create a stronger version of it.</Make_ProcessedLeather.description>
+	<Make_ProcessedLeather_x4.label>make processed leather x4</Make_ProcessedLeather_x4.label>
+	<Make_ProcessedLeather_x4.description>Combine pieces of patchleather to create a stronger version of it.</Make_ProcessedLeather_x4.description>
+	<Make_ProcessedMeat.label>make processed meat</Make_ProcessedMeat.label>
+	<Make_ProcessedMeat.description>Combine pieces of meat to create a neutral version of it.</Make_ProcessedMeat.description>
+</LanguageData>
