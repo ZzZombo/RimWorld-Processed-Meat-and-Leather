@@ -265,45 +265,16 @@
 						<li>MeatRaw</li>
 					</categories>
 				</filter>
-				<count>1</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-						<li>MeatRaw</li>
-					</categories>
-				</filter>
-				<count>1</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-						<li>MeatRaw</li>
-					</categories>
-				</filter>
-				<count>1</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-						<li>MeatRaw</li>
-					</categories>
-				</filter>
-				<count>1</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-						<li>MeatRaw</li>
-					</categories>
-				</filter>
-				<count>1</count>
+				<count>5</count>
 			</li>
 		</ingredients>
 		<fixedIngredientFilter>
 			<categories>
 				<li>MeatRaw</li>
 			</categories>
+			<disallowedThingDefs>
+				<li>Meat_Processed</li>
+			</disallowedThingDefs>
 		</fixedIngredientFilter>
 		<products>
 			<Meat_Processed>10</Meat_Processed>
